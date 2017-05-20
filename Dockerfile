@@ -3,7 +3,7 @@ FROM openjdk:alpine
 MAINTAINER Sean Nelson <audiohacked@gmail.com>
 
 ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBBeyond"
-ENV FTB_VERSION="1_5_3"
+ENV FTB_VERSION="1_6_0"
 ENV SERVER_FILE="FTBBeyondServer.zip"
 ENV SERVER_PORT 25565
 
